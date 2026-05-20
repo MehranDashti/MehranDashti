@@ -44,20 +44,34 @@ Senior Software Engineer with **10+ years** of experience designing, building, a
 
 | Repo | Description |
 |---|---|
-| [delaverseAI/monitoring](https://github.com/delaverseAI/monitoring) | Production monitoring automation for AI agent services |
-| [delaverseAI/workflow-template](https://github.com/delaverseAI/workflow-template) | Reusable workflow templates for the Delaverse AaaS platform |
-| [laravel-api-exception](https://github.com/MehranDashti/laravel-api-exception) | Structured API exception handling for Laravel — clean, consistent error responses |
-| [laravel-api-reponse](https://github.com/MehranDashti/laravel-api-reponse) | Standardised API response wrapper for Laravel applications |
-| [fastapi-rbac](https://github.com/MehranDashti/fastapi-rbac) | Role-based access control (RBAC) for FastAPI with JWT auth and permission middleware |
-| [fastapi-blueprint](https://github.com/MehranDashti/fastapi-blueprint) | Production-ready FastAPI project blueprint with best-practice structure |
+| [laravel-api-exception](https://github.com/MehranDashti/laravel-api-exception) | Structured API exception handling for Laravel — clean, consistent JSON error responses with HTTP status codes |
+| [laravel-api-reponse](https://github.com/MehranDashti/laravel-api-reponse) | Standardised API response wrapper for Laravel — consistent JSON structure with pagination support |
+| [fastapi-rbac](https://github.com/MehranDashti/fastapi-rbac) | Role-based access control (RBAC) for FastAPI with JWT authentication and permission middleware |
+| [fastapi-blueprint](https://github.com/MehranDashti/fastapi-blueprint) | Production-ready FastAPI project blueprint — dependency injection, DB integration, auth, and Docker setup |
 
 ---
 
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehranDashti&show_icons=true&theme=dark&hide_border=true&bg_color=0a0f1e&title_color=4a7fd4&icon_color=1847c7&text_color=8fa8d4" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehranDashti&layout=compact&theme=dark&hide_border=true&bg_color=0a0f1e&title_color=4a7fd4&text_color=8fa8d4" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MehranDashti&theme=dark&hide_border=true&background=0a0f1e&stroke=1e3060&ring=1847c7&fire=4a7fd4&currStreakNum=ffffff&sideNums=8fa8d4&currStreakLabel=4a7fd4&sideLabels=8fa8d4&dates=334d7a" width="480"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
